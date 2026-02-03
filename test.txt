@@ -1,0 +1,1 @@
+This is a test document for the mini workspace assistant. It should be chunked and stored.
